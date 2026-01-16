@@ -16,45 +16,46 @@ The code is released to promote transparency and reproducibility, and **research
 The repository is organized as follows:
 
 CuMMI/
-├── data/
 
-├── text_embedding/
+    ├── data/
 
-├── protein_embedding/
+    ├── text_embedding/
 
-├── train_basic_10/
+    ├── protein_embedding/
 
-├── train_basic_30/
+    ├── train_basic_10/
 
-├── train_basic_50/
+    ├── train_basic_30/
 
-├── train_basic_75/
+    ├── train_basic_50/
 
-├── train_basic_100/
+    ├── train_basic_75/
 
-├── train_basic_only_protein/
+    ├── train_basic_100/
 
-├── train_basic_only_text/
+    ├── train_basic_only_protein/
 
-├── train_date_10/
+    ├── train_basic_only_text/
 
-├── train_date_30/
+    ├── train_date_10/
 
-├── train_date_50/
+    ├── train_date_30/
 
-├── train_date_75/
+    ├── train_date_50/
 
-├── train_date_100/
+    ├── train_date_75/
 
-├── train_nano/
+    ├── train_date_100/
 
-├── train_protein/
+    ├── train_nano/
 
-├── text_embedding_4_explain/
+    ├── train_protein/
 
-└── model_explain/
+    ├── text_embedding_4_explain/
 
-└── finetuning/
+    └── model_explain/
+
+    └── finetuning/
 
 
 ---
