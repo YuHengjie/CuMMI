@@ -17,24 +17,44 @@ The repository is organized as follows:
 
 CuMMI/
 ├── data/
+
 ├── text_embedding/
+
 ├── protein_embedding/
+
 ├── train_basic_10/
+
 ├── train_basic_30/
+
 ├── train_basic_50/
+
 ├── train_basic_75/
+
 ├── train_basic_100/
+
 ├── train_basic_only_protein/
+
 ├── train_basic_only_text/
+
 ├── train_date_10/
+
 ├── train_date_30/
+
 ├── train_date_50/
+
 ├── train_date_75/
+
 ├── train_date_100/
+
 ├── train_nano/
+
 ├── train_protein/
+
 ├── text_embedding_4_explain/
+
 └── model_explain/
+
+└── finetuning/
 
 
 ---
@@ -99,6 +119,11 @@ Text embeddings are generated specifically to support explainability experiments
 
 ### 📁 `model_explain`
 Contains model explanation modules for analyzing **model loss changes under feature ablation**, enabling interpretation of multimodal contributions.
+
+---
+
+### 📁 `finetuning`
+Contains code for **fine-tuning** the model on controlled data splits, optimizing only the prediction head while freezing other layers to assess knowledge transfer from pretrained models.
 
 ---
 
