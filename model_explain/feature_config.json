@@ -1,0 +1,51 @@
+{
+    "Nanomaterials": [
+        "Core",
+        "Core type",
+        "Surface modification",
+        "Modification type",
+        "Shape",
+        "Primary size (nm)",
+        "DLS size in water (nm)",
+        "Zeta potential in water (mV)",
+        "PdI in water",
+        "DLS size in dispersion medium (nm)",
+        "Zeta potential in dispersion medium (mV)",
+        "PdI in dispersion medium",
+        "Dispersion medium",
+        "NM concentration"
+    ],
+    "Protein": [
+        "Incubation protein source",
+        "Protein source organism",
+        "Protein source concentration"
+    ],
+    "Incubation": [
+        "Incubation culture",
+        "Incubation time (h)",
+        "Incubation temperature (℃)",
+        "Incubation flow condition",
+        "Incubation flow speed",
+        "Incubation setting"
+    ],
+    "Separation": [
+        "Separation method",
+        "Centrifugation speed",
+        "Centrifugation time (min)",
+        "Centrifugation temperature (℃)",
+        "Centrifugation repetitions"
+    ],
+    "Proteomic": [
+        "Proteomic depth",
+        "Digestion protocol",
+        "LC system",
+        "MS system",
+        "Search engine",
+        "Database",
+        "Instrument resolution",
+        "Quantification method"
+    ],
+    "Research purpose": [
+        "Research purpose"
+    ]
+}

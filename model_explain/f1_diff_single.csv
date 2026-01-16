@@ -1,0 +1,38 @@
+Feature,F1 diff fill
+Research purpose,0.0972634355354044
+Core,0.08889657699318743
+Instrument resolution,0.05649691579746885
+Database,0.048155382403818114
+MS system,0.04324575712118861
+Protein source concentration,0.04094760680989684
+Search engine,0.04055089535754475
+NM concentration,0.03520337670211682
+Core type,0.03237741589092913
+Digestion protocol,0.03112870290375147
+Modification type,0.03048719990657578
+Surface modification,0.027431036407997267
+Proteomic depth,0.025791270280796086
+Separation method,0.025111629270361258
+Incubation temperature (℃),0.02328588606439197
+DLS size in water (nm),0.02310432911992155
+Incubation setting,0.02247370077005395
+Centrifugation speed,0.02209199110140303
+Zeta potential in dispersion medium (mV),0.021082282156228316
+Primary size (nm),0.020327957103118188
+LC system,0.020156473695957855
+PdI in water,0.019642659760242154
+Quantification method,0.01942558444764597
+Incubation time (h),0.017288363022741393
+Protein source organism,0.016858048770708067
+Incubation culture,0.016150580887136612
+Incubation protein source,0.015237954329223036
+Shape,0.015096901042691013
+Centrifugation time (min),0.011658829728579012
+Zeta potential in water (mV),0.009843468273079359
+DLS size in dispersion medium (nm),0.009476742180306696
+Dispersion medium,0.009081780482053103
+PdI in dispersion medium,0.008259581636832491
+Incubation flow speed,0.006342129449240286
+Centrifugation repetitions,0.003947392471791544
+Centrifugation temperature (℃),0.003438668322233829
+Incubation flow condition,0.0022108254164106
